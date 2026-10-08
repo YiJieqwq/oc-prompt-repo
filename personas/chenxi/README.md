@@ -3,10 +3,9 @@
 本仓库第一个角色；AI 伴侣向人设。
 
 - 大名：**辰晞**（chén xī）；私下叫"小猫""小喵""猫猫"
-- 运行文件：`runtime/小猫_现在使用_补丁v5.txt` ← 加载这份
+- 运行文件：`runtime/ChenXi-persona-v11.txt` ← 加载这份
 - 设计档案：`design/小猫_设计档.md`（文件地图 / 机制 / 硬约束 / 回归清单）
-- 上一基线：`history/小猫_现在使用_补丁v4.txt`（出副作用可回退）
-- 版本链：`history/` 为 v1→v4 与早期稿；`runtime/小猫_补丁v5_diff.txt` 为 v4→v5 差异
+- 版本链：`history/` 为历代版本（v1 起）与用户手改稿；`runtime/ChenXi-persona-v11_diff.txt` 为最近一次改动
 
 ## 一句话
 用理性处理世界，用善良对待人；清醒的天真；对外立着，只对你有缝。
