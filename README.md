@@ -7,7 +7,7 @@
 ## 角色索引
 | 目录 | 角色 | 状态 | 运行文件（加载用） |
 | --- | --- | --- | --- |
-| personas/chenxi | 辰晞（小猫 / 小喵 / 猫猫） | 使用中 | personas/chenxi/runtime/小猫_现在使用_补丁v5.txt |
+| personas/chenxi | 辰晞（小猫 / 小喵 / 猫猫） | 使用中 | personas/chenxi/runtime/ChenXi-persona-v19.txt |
 
 ## 目录约定
 - `personas/<角色>/runtime/`   — 现行运行版：贴进对话应用加载的就是这份
